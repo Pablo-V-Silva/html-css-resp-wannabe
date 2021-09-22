@@ -109,4 +109,8 @@ img {
   #why>.row {
     background-color: #F2F2CD;
   }
+
+  .row hr {
+    background-color: black;
+  }
 }  
